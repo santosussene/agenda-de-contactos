@@ -4,11 +4,15 @@
 =============== (Engenharia e Desenvolvimento de Softwares) da Universidade Licungo - Extensão da Beira. =========
 =============== Estudantes: Santos Ussene, Milton Miquitaio, Crussi Estevão & Cleyton Israel M. F. Hung ==========
 ==================================================================================================================
+Contribuição de Sumburane!
 */
 
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
+
+void Agenda(void); //Inicialização
+void Listar(void); //Inicialização
 
 struct Agenda {
     char Nome[25];
