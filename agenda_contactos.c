@@ -1,12 +1,3 @@
-/*
-=============== AGENDA DE CONTACTOS ==============================================================================
-=============== Projecto Criado por estudantes da Faculdade de Ciência e Tecnologia, do curso de Informática =====
-=============== (Engenharia e Desenvolvimento de Softwares) da Universidade Licungo - Extensão da Beira. =========
-=============== Estudantes: Santos Ussene, Milton Miquitaio, Crussi Estevão & Cleyton Israel M. F. Hung ==========
-==================================================================================================================
-Contribuição de Sumburane!
-*/
-
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
